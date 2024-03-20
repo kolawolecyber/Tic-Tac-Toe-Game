@@ -1,0 +1,25 @@
+#game{
+    background-color: blue;
+    width:350px;
+    height:220px;
+    border:2px solid;
+    border-radius: 25px;
+    padding: 10px;
+}
+.gameButton{
+    width:100px;
+    border-radius: 25px;
+    padding-left:10px;
+    align-self: center;
+    color:blue;
+    border: 2px solid gold;
+}
+#playerText{
+    color:gold;
+}
+#computerText{
+    color:red;
+}
+#resultText{
+    color:green;
+}
